@@ -14,7 +14,6 @@ I am currently interested in **computer vision**, learning how machines can inte
 
 - **Image and video processing**
 - **Object detection and tracking**
-- **Scene recognition** in anime and documentaries
 - **Augmented reality** filters and effects
 
 ## 💡 Open to Suggestions!
