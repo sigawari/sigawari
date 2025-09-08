@@ -1,6 +1,6 @@
 # 👋 Introduction
 
-Hello! My name is **Sigawi**. I am an informatics student with a passion for combining multimedia and IT. My experience includes **social media management** and **videography**, and I'm now exploring how to integrate multimedia—such as images, video, and audio—into technology solutions.
+Hello! My name is **Siga**. I am an informatics student with a passion for combining multimedia and IT. My experience includes **social media management** and **videography**, and I'm now exploring how to integrate multimedia—such as images, video, and audio—into technology solutions.
 
 ## 🎬 Experience & Interests
 
